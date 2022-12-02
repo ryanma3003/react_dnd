@@ -1,0 +1,30 @@
+{
+	"name": "chakra",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "next",
+		"build": "next build",
+		"start": "next start"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@chakra-ui/core": "^0.5.2",
+		"@chakra-ui/icons": "^2.0.13",
+		"@emotion/core": "^10.0.27",
+		"@emotion/styled": "^10.0.27",
+		"axios": "^1.2.0",
+		"babel-preset-es2015": "^6.24.1",
+		"emotion-theming": "^10.0.27",
+		"mongoose": "^6.7.5",
+		"next": "^12.3.4",
+		"react": "^18.2.0",
+		"react-dnd": "^10.0.2",
+		"react-dnd-html5-backend": "^10.0.2",
+		"react-dom": "^18.2.0",
+		"react-spectrum": "^1.1.5"
+	}
+}
